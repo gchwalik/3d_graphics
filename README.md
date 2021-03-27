@@ -1,7 +1,2 @@
-# 3d_graphics
+# 3d graphics
 
-# Test
-hello world
-
-# Test 2
-goodnight moon
